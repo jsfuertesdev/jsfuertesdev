@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9" width="200">
+  <img src="[https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9](https://media0.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=790b7611a9ecd5dc4ee9b38329e2f2dc24bcfae3ed164d8c&rid=giphy.gif&ct=g)" width="200">
   <hl align="center">Hello! I'm Joan</h1>
   <h3 align="center">A passionate web fullstack developer</h3>
 <div>
