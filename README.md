@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9" width="200">
+  <hl align="center">Hello! I'm Joan</h1>
+  <h3 align="center">A passionate web fullstack developer</h3>
+<div>
+
 ### Hi there 👋
 
 <!--
