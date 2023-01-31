@@ -1,8 +1,10 @@
 <div id="header" align="center">
-  <img src="[https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9](https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif)" width="200" style="display: block; margin: 0 auto;>
-  <hl align="center">Hello! I'm Joan</h1>
+  <div style="text-align: center;">
+    <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200">
+  </div>
+  <h1 align="center">Hello! I'm Joan</h1>
   <h3 align="center">A passionate web fullstack developer</h3>
-<div>
+</div>
 
 ### Hi there 👋
 
