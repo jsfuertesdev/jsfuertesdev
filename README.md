@@ -6,8 +6,6 @@
   <h3 align="center">A passionate web fullstack developer</h3>
 </div>
 
-### Hi there 👋
-
 ### About Me 😸:
 
 - 🤖 Intermediate level experience in utilizing RPA technology.
