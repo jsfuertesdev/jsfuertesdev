@@ -12,6 +12,9 @@
 - 📑 Skilled in Python, Javascript, C++, Java, Solidity
 - 🌱 Studying Web3 and data science
 - 🦾 Passionate about AI innovation
+
+
+-I have some other projects in my old github https://github.com/heigus
   
 <!--
 **jsfuertesdev/jsfuertesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
