@@ -10,8 +10,7 @@
 
 - 🤖 Intermediate level experience in utilizing RPA technology.
 - 📑 Skilled in Python, Javascript, C++, Java, Solidity
-- 🌱 Studying Web3 and data science
-- 🦾 Passionate about AI innovation
+- 🦾 Passionate about Web3 and AI innovation
 
 
 -I have some other projects in my old github https://github.com/heigus
